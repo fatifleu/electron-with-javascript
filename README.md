@@ -1,5 +1,5 @@
 # electron-with-javascript
 
 start 
-clone
-npm install
+/clone
+/npm install
