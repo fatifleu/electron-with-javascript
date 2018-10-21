@@ -3,3 +3,4 @@
 start 
 /clone
 /npm install
+/ electron .
